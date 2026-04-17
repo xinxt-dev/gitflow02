@@ -6,6 +6,7 @@ function bubbleSort(arr) {
         let temp = arr[j];
         arr[j] = arr[j + 1];
         arr[j + 1] = temp;
+        //嘉庆你好，我是辛老师
       }
     }
   }
