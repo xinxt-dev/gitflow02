@@ -7,6 +7,7 @@ function bubbleSort(arr) {
         arr[j] = arr[j + 1];
         arr[j + 1] = temp;
         //嘉庆你好，我是辛老师
+        // 冲突代码....
       }
     }
   }
