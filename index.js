@@ -8,7 +8,7 @@ function bubbleSort(arr) {
         arr[j + 1] = temp;
         //嘉庆你好，我是辛老师
         // 冲突代码....
-        let a = 1;
+        let a = 8;
         let b = 2;
         console.log(a+b);
         
