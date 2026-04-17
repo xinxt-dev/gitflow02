@@ -14,3 +14,5 @@ function bubbleSort(arr) {
 }
 
 // 这是冒泡排序
+
+console.log('hello world');
